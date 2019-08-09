@@ -153,18 +153,18 @@
 		640A29A422409E59002C19CB /* IOP */ = {
 			isa = PBXGroup;
 			children = (
+				640A29AB22409E59002C19CB /* FactoryProtocol.h */,
+				640A29B022409E59002C19CB /* ProductProtocol.h */,
 				640A29A522409E59002C19CB /* FactoryA.h */,
 				640A29A622409E59002C19CB /* FactoryA.m */,
 				640A29A722409E59002C19CB /* FactoryB.h */,
 				640A29A822409E59002C19CB /* FactoryB.m */,
-				640A29A922409E59002C19CB /* FactoryHub.h */,
-				640A29AA22409E59002C19CB /* FactoryHub.m */,
-				640A29AB22409E59002C19CB /* FactoryProtocol.h */,
 				640A29AC22409E59002C19CB /* ProductA.h */,
 				640A29AD22409E59002C19CB /* ProductA.m */,
 				640A29AE22409E59002C19CB /* ProductB.h */,
 				640A29AF22409E59002C19CB /* ProductB.m */,
-				640A29B022409E59002C19CB /* ProductProtocol.h */,
+				640A29A922409E59002C19CB /* FactoryHub.h */,
+				640A29AA22409E59002C19CB /* FactoryHub.m */,
 			);
 			path = IOP;
 			sourceTree = "<group>";
